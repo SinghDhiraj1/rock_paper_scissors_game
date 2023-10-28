@@ -17,3 +17,9 @@ The object of the rock-paper-scissor python project is to build a game for a sin
 This project is build using tkinter, random modules, and the basic concept of python.
 
 In this python project, players have to choose any one from rock, paper, and scissors. Then click on the play button will show the result of the game.
+
+### Example 
+1. ![Screenshot 2023-10-28 153236](https://github.com/SinghDhiraj1/rock_paper_scissors_game/assets/133857148/1a014148-2ef1-46ab-92ff-53be06dc7ed5)
+2. ![Screenshot 2023-10-28 153255](https://github.com/SinghDhiraj1/rock_paper_scissors_game/assets/133857148/0860fab2-c13b-4bbf-b5bc-957cb4694a0d)
+3. ![Screenshot 2023-10-28 153354](https://github.com/SinghDhiraj1/rock_paper_scissors_game/assets/133857148/375d590e-fca5-4049-84b8-ad99d3faeb7b)
+
